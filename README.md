@@ -1,3 +1,4 @@
 2048Game Architecture
 
-![image](https://github.com/user-attachments/assets/dc35117a-43a0-4a12-802f-8efe4fce38fe)
+![image](https://github.com/user-attachments/assets/908c48a8-2a50-49bb-9455-266d1e15f882)
+
