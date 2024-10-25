@@ -1,7 +1,7 @@
 1. Leveraged an open-source 2048 game project from GitHub as a foundation.
 
-2. Created a Dockerfile to define the project environment and dependencies.
-   Built a Docker image containing the game application and configured the Docker image to run as a localhost as a test environment.
+2. Created a Dockerfile to define the project environment and dependencies to ensure the dockfile works properly.
+   Built a Docker image containing the game application and configured the Docker image to run as a localhost (port 80) as a test environment.
 
 3. Once tested, an Elastic Beanstalk environment was created to host the game.
    Deployed the Docker Image to the Elastic Beanstalk environment.
